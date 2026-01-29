@@ -1,0 +1,4 @@
+com\uber\Model\UserPayment.class
+com\uber\Service\NotificationService.class
+com\uber\NotificationServicesApplication.class
+com\uber\Model\Notification.class
