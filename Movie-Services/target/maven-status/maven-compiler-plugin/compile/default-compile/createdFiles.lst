@@ -1,0 +1,4 @@
+com\uber\Model\Movies.class
+com\uber\MovieServicesApplication.class
+com\uber\Model\User.class
+com\uber\Service\MovieService.class
