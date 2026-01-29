@@ -51,6 +51,12 @@ Event-driven Movie Ticket Booking system built using Apache Kafka and Microservi
 - Produces → `booking-movie`
 - Consumes → `ticket-details`
 
+
+**The User Can see the Ticket details After Consuming the topic:**
+
+<img width="1883" height="711" alt="log5" src="https://github.com/user-attachments/assets/d2a23d3d-28bd-4598-bac6-1489222c1091" />
+
+
 ---
 
 ## 🎟 Booking Service
@@ -83,6 +89,9 @@ Event-driven Movie Ticket Booking system built using Apache Kafka and Microservi
 - Consumes → `movie-found`
 - Produces → `payment-topic`
 
+  <img width="1071" height="526" alt="log2" src="https://github.com/user-attachments/assets/80bec3a4-0dc7-4c41-b2b7-409abe1af14c" />
+
+
 ---
 
 ## 📩 Notification Service
@@ -95,6 +104,9 @@ Event-driven Movie Ticket Booking system built using Apache Kafka and Microservi
 **Kafka Topics:**
 - Consumes → `payment-topic`
 - Produces → `notification-sent`
+
+  <img width="1447" height="584" alt="log3" src="https://github.com/user-attachments/assets/db567746-c4e4-42d7-83cc-6280c37443ad" />
+
 
 ---
 
@@ -117,9 +129,15 @@ Event-driven Movie Ticket Booking system built using Apache Kafka and Microservi
 - Consumes → `notification-sent`
 - Produces → `ticket-details`
 
----
+<img width="1830" height="504" alt="log4" src="https://github.com/user-attachments/assets/21670e76-d61d-4a9a-a474-dbdd169c9d6c" />
+
 
 ---
+
+**PostMan Request:** 
+
+<img width="1902" height="947" alt="Request_Response" src="https://github.com/user-attachments/assets/c0455756-1441-4521-abd5-ab92bb5c3995" />
+
 
 # 📨 Kafka Topics Summary
 
