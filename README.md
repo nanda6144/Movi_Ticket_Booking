@@ -170,25 +170,25 @@ Event-driven Movie Ticket Booking system built using Apache Kafka and Microservi
 
 ## 🎫 End-to-End Event Flow
 
-User Service
+-User Service
    ↓
-booking-movie
+-booking-movie
    ↓
-Booking Service
+-Booking Service
    ↓
-movie-found
+-movie-found
    ↓
-Payment Service
+-Payment Service
    ↓
-payment-topic
+-payment-topic
    ↓
-Notification Service
+-Notification Service
    ↓
-notification-sent
+-notification-sent
    ↓
-Ticket Generation Service
+-Ticket Generation Service
    ↓
-ticket-details
+-ticket-details
    ↓
-User Service (consume ticket)
+-User Service (consume ticket)
 
