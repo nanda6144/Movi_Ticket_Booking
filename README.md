@@ -67,6 +67,9 @@ Event-driven Movie Ticket Booking system built using Apache Kafka and Microservi
 - Consumes → `booking-movie`
 - Produces → `movie-found`
 
+  <img width="1266" height="480" alt="log1" src="https://github.com/user-attachments/assets/7161af6a-cfcc-488a-888a-ad1c70ee3bfd" />
+
+
 ---
 
 ## 💳 Payment Service
