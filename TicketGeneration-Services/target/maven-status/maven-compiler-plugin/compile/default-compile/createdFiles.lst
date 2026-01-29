@@ -1,0 +1,4 @@
+com\uber\Model\Ticket.class
+com\uber\Model\UserPayment.class
+com\uber\Service\TicketGeneration.class
+com\uber\TicketGenerationServicesApplication.class
