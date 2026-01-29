@@ -1,0 +1,6 @@
+com\uber\Controller\UserController.class
+com\uber\Model\User.class
+com\uber\UserServicesApplication.class
+com\uber\Model\Ticket.class
+com\uber\Service\UserService.class
+com\uber\Model\Notification.class
