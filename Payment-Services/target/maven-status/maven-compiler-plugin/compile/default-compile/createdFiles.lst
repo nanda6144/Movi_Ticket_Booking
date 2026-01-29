@@ -1,0 +1,4 @@
+com\uber\Model\UserPayment.class
+com\uber\Service\PaymentService.class
+com\uber\Model\Movies.class
+com\uber\PaymentServicesApplication.class
